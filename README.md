@@ -9,12 +9,12 @@ I am an iOS Developer focused on mobile applications. Currently, I am exploring 
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
 ![Apple](https://img.shields.io/badge/-Apple-black?style=flat&logo=apple)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)
-![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat&logo=gitlab)
-![Discord](https://img.shields.io/badge/-Discord-purple?style=flat&logo=discord)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
-![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-purple?style=flat&logo=visual-studio)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat&logo=gitlab)
+![Discord](https://img.shields.io/badge/-Discord-black?style=flat&logo=discord)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat&logo=visual-studio)
 
 ## Top Projects
 
