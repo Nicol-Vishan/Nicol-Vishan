@@ -1,4 +1,4 @@
-# Hi there! 👋
+<h1>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 
 I'm **Warnakulasooriya Nicol Vishan**, a passionate iOS Developer with a keen interest in building innovative applications. My journey in tech has been exciting, and I love to explore new technologies and frameworks to enhance my skills.
 
