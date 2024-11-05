@@ -50,4 +50,4 @@ I am an iOS Developer focused on mobile applications. Currently, I am exploring 
 
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolvish.ire120@gmail.com)
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nicol-vishan-5136b5181/)
-* [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-orange?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/8995554/nicol-vishan)
+* [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow?style=flat&logo=stack-overflow)](https://stackoverflow.com/users/8995554/nicol-vishan)
