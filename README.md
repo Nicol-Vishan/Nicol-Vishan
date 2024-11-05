@@ -6,7 +6,7 @@ I'm **Warnakulasooriya Nicol Vishan**, a passionate iOS Developer with a keen in
 I am an iOS Developer focused on mobile applications. Currently, I am exploring Swift and contributing to various open-source projects. My goal is to create user-friendly applications that solve real-world problems.
 
 ## Skills & Technologies
-![Swift](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
 ![Apple](https://img.shields.io/badge/-Apple-black?style=flat&logo=apple)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)
